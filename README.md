@@ -1,5 +1,5 @@
 # Install Script untuk Praktikum Algoritma dan Pemrograman
-Secara ceoat melakukan instalasi aplikasi yang dibutuhkan untuk digunakan dalam pemrograman aplikasi C++
+Melakukan instalasi aplikasi yang dibutuhkan untuk digunakan dalam pemrograman aplikasi C++ secara cepat
 
 <br>
 
