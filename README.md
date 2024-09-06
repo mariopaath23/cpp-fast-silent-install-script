@@ -25,7 +25,7 @@ Ketika dijalankan, script ini akan:
 - Buka Windows PowerShell sebagai Administrator
 - Jalankan:
   ```
-  Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
   ```
 - `cd` ke direktori di mana file `.ps1` tersebut berada
   ```
